@@ -1,9 +1,9 @@
 # Client-Side Encryption Tool Using AES-256
-## Implemented AES-256 Encryption: Utilized a Crypto Library to apply AES-256 encryption on a secret message. AES (Advanced Encryption Standard) is a symmetric block cipher that encrypts data in 128-bit blocks, with key sizes of 128, 192, or 256 bits.
-## Developed Client-Side Interface in Java: Designed and implemented the user interface for the encryption tool using Java. The interface allows users to encrypt and decrypt messages using AES-256.
-## Performed AES-256 Decryption: Applied the Crypto Library to decrypt the encrypted message back into plaintext using the same AES-256 key.
-## Code Organization and Documentation: Structured the project with a clear directory for the "Encryption Algorithm," including the EncryptionDecryption class as the main executable for running and debugging the program. The AesHelper class handled encryption computations, while the UiHelper class managed the user interface, including panels, labels, and event listeners.
-## Technical Highlights: The project demonstrates how Java can effectively convert plaintext into ciphertext and back using a symmetric private key, showcasing practical implementation of encryption/decryption processes in a real-world scenario.
+### Implemented AES-256 Encryption: Utilized a Crypto Library to apply AES-256 encryption on a secret message. AES (Advanced Encryption Standard) is a symmetric block cipher that encrypts data in 128-bit blocks, with key sizes of 128, 192, or 256 bits.
+### Developed Client-Side Interface in Java: Designed and implemented the user interface for the encryption tool using Java. The interface allows users to encrypt and decrypt messages using AES-256.
+### Performed AES-256 Decryption: Applied the Crypto Library to decrypt the encrypted message back into plaintext using the same AES-256 key.
+### Code Organization and Documentation: Structured the project with a clear directory for the "Encryption Algorithm," including the EncryptionDecryption class as the main executable for running and debugging the program. The AesHelper class handled encryption computations, while the UiHelper class managed the user interface, including panels, labels, and event listeners.
+### Technical Highlights: The project demonstrates how Java can effectively convert plaintext into ciphertext and back using a symmetric private key, showcasing practical implementation of encryption/decryption processes in a real-world scenario.
 
 
 ## Prerequisites
