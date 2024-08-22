@@ -6,8 +6,7 @@
 ## Technical Highlights: The project demonstrates how Java can effectively convert plaintext into ciphertext and back using a symmetric private key, showcasing practical implementation of encryption/decryption processes in a real-world scenario.
 
 
-# Cryptography-AES--SHA-Tool-in-Java
-      
+## Prerequisites
       Run on IntelliJ  Prerequisites: jdk 22.0.01.
       Features: Crypto Library is being used internally by Java 8 ECB done by default internally by Java CYPHER_ALGORITHM. 
       No need to externally block split the input plain text.
